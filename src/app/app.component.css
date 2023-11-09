@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+}
+.app-block {
+  padding: 2rem;
+  width: 40rem;
+  max-width: 100%;
+}
